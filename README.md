@@ -19,6 +19,7 @@ Antes de começar,
 
 - Analise o que precisa ser feito.
 - Tente criar uma lista de taferas do que precisa desenvolver.
+- Tente estruturar o projeto em pastas
 - Use os comandos do git
 
 <br>
