@@ -9,7 +9,7 @@
 
 ## 📝 Figma
 
-[Layout do projeto](https://www.figma.com/file/d31jn4Tmtgvb5ljCzvABh1/Crypto-App-Finance-Landing---Free-Figma-Web-Page-for-Startups---Web%2FMobile---Light%2FDark-(Community)?node-id=7%3A173)
+[Layout do projeto](https://www.figma.com/file/d31jn4Tmtgvb5ljCzvABh1/Crypto-App-Finance-Landing---Free-Figma-Web-Page-for-Startups---Web%2FMobile---Light%2FDark-(Community)?node-id=7%3A173){:target="_blank"}
 
 <br>
 
